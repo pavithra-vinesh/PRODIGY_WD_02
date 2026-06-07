@@ -41,9 +41,9 @@ The application includes:
 * Reset button
 * Dynamic lap tracking section
 
-![](<Screenshot 2026-06-07 211209.png>)
+![StopWatch UI](<Screenshot 2026-06-07 211209-1.png>)
 
-![ ](<Screenshot 2026-06-07 205827.png>)
+![StopWatch  ](<Screenshot 2026-06-07 205827.png>)
 
 ## ⚙️ Installation
 
