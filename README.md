@@ -32,12 +32,9 @@ stopwatch-project/
 
 ## 📸 Application Preview
 
-![Stopwatch UI](image.png)
+![StopWatchUI](image.png)
 
-
-
-![StopWatch after start button clicked](image-1.png)
-
+![StopwatchStarted](image-1.png)
 
 
 
