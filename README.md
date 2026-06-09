@@ -32,6 +32,15 @@ stopwatch-project/
 
 ## 📸 Application Preview
 
+![Stopwatch UI](image.png)
+
+
+
+![StopWatch after start button clicked](image-1.png)
+
+
+
+
 The application includes:
 
 * Digital stopwatch display
