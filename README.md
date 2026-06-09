@@ -41,10 +41,6 @@ The application includes:
 * Reset button
 * Dynamic lap tracking section
 
-![StopWatch UI](Screenshot 2026-06-07 211209-1.png)
-
-![Stop ](Screenshot 2026-06-07 205827.png)
-
 ## ⚙️ Installation
 
 1. Clone the repository:
